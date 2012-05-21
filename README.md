@@ -32,5 +32,4 @@ This mod adds a follower named Lady Brooksie. She is an assassin and a member of
 
 # FAQ
 Q. Where can I find Lady Brooksie?
-
 A. Lady Brooksie can be found at Dead Man's Drink in Falkreath.
