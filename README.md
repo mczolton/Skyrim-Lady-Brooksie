@@ -1,4 +1,4 @@
-This mod adds a follower named Lady Brooksie. She is an assassin, a member of the Dark Brotherhood faction, and can be found at the Dead Man's Drink Inn of Falkreath.
+This mod adds a follower named Lady Brooksie. She is an assassin and a member of the Dark Brotherhood faction. She can be found at Dead Man's Drink in Falkreath.
 
 # Features
 * Unique look and hairstyle.
@@ -30,5 +30,7 @@ This mod adds a follower named Lady Brooksie. She is an assassin, a member of th
 ## 1.0 
 * Initial release.
 
-# Also Available On
-* Skyrim Nexus (link here)
+# FAQ
+Q. Where can I find Lady Brooksie?
+
+A. Lady Brooksie can be found at Dead Man's Drink in Falkreath.
