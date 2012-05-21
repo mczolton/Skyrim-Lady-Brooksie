@@ -1,5 +1,4 @@
-This mod adds a follower named Lady Brooksie. She is an assassin, a member of the Dark Brotherhood faction, 
-and can be found at the Dead Man's Drink Inn of Falkreath.
+This mod adds a follower named Lady Brooksie. She is an assassin, a member of the Dark Brotherhood faction, and can be found at the Dead Man's Drink Inn of Falkreath.
 
 # Features
 * Unique look and hairstyle.
@@ -16,10 +15,8 @@ and can be found at the Dead Man's Drink Inn of Falkreath.
 * Damage Health Poisons
 
 # Notes
-* Lady Brooksie's default outfit consists of farm clothes. This allows you to dress her any way you like. 
-  The first thing you should do is open her inventory and equip the included Dark Brotherhood armor set.
-* Due to a bug in Skyrim, followers will not use the bow you give them; they will default to a hunting bow. 
-  There are two workarounds for this issue.
+* Lady Brooksie's default outfit consists of farm clothes. This allows you to dress her any way you like. The first thing you should do is open her inventory and equip the included Dark Brotherhood armor set.
+* Due to a bug in Skyrim, followers will not use the bow you give them; they will default to a hunting bow. There are two workarounds for this issue.
   1. Remove all other weapons from your follower's inventory, and give them any type of bow and arrow.
   2. Only give your follower iron arrows and any type of bow. Go figure.
 
