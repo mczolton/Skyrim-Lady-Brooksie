@@ -27,7 +27,7 @@ This mod adds a follower named Lady Brooksie. She is an assassin and a member of
 * Hairstyle: Lovely Hair by sn00p (http://skyrim.nexusmods.com/downloads/file.php?id=7403), used with permission.
 
 # Changelog
-## 1.0 
+## 1.0.0 
 * Initial release.
 
 # FAQ
