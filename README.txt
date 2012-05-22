@@ -58,5 +58,7 @@ A. Lady Brooksie can be found at Dead Man's Drink in Falkreath.
 
 ======================
 Also Available On
-======================  
+======================
+  
 - Skyrim Nexus: http://skyrim.nexusmods.com/downloads/file.php?id=17457
+- Steam Workshop: http://steamcommunity.com/sharedfiles/filedetails/?id=72972455
